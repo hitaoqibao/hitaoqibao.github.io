@@ -9,7 +9,7 @@
 类似演示地址其中 hitaoqibao 为我的用户名
 
 
-现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如[https://hitaoqibao.github.io][1]
+现在 ```https://你的用户名.github.io``` 就是你的个人博客了,例如:https://hitaoqibao.github.io
 
 ## 开发
 
