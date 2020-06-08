@@ -2,7 +2,7 @@
 
 ## 快速使用
 搭建博客只需2步
-- 点击github头像旁边的 "+" 号 选择 ```Import repository ```克隆地址填 ```https://github.com/GitHub-Laziji/GitHub-Laziji.github.io ```项目名填 ```你的用户名.github.io ```
+- 点击github头像旁边的 "+" 号 选择 ```Import repository ```克隆地址填 ```https://github.com/hitaoqibao/hitaoqibao.github.io.git ```项目名填 ```你的用户名.github.io ```
 - 克隆完成后 修改文件 ```/static/configuration.json``` 中的 ```githubUsername``` 为自己的github用户名
 
 
